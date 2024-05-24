@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">DiasMes</string>
+
+    <string name="tit_1">Hidrátate bien</string>
+    <string name="desc_1">Bebe al menos 8 vasos de agua al día.</string>
+
+    <string name="tit_2">Ejercicio diario</string>
+    <string name="desc_2">Dedica 30 minutos diarios a alguna actividad física.</string>
+
+    <string name="tit_3">Duerme suficiente</string>
+    <string name="desc_3">Trata de dormir entre 7 y 8 horas cada noche.</string>
+
+    <string name="tit_4">Desconecta digitalmente</string>
+    <string name="desc_4">Apaga tus dispositivos electrónicos una hora antes de dormir.</string>
+
+    <string name="tit_5">Medita a diario</string>
+    <string name="desc_5">Prueba meditar 10 minutos al día para reducir el estrés.</string>
+
+    <string name="tit_6">Alimentación equilibrada</string>
+    <string name="desc_6">Come una variedad de frutas y verduras diariamente.</string>
+
+    <string name="tit_7">Tiempo al aire libre</string>
+    <string name="desc_7">Pasa al menos 20 minutos al día al aire libre.</string>
+
+    <string name="tit_8">Practica gratitud</string>
+    <string name="desc_8">Escribe tres cosas por las que estás agradecido cada día.</string>
+
+    <string name="tit_9">Toma descansos</string>
+    <string name="desc_9">Haz pausas cortas cada hora durante tu jornada laboral.</string>
+
+    <string name="tit_10">Relaciones saludables</string>
+    <string name="desc_10">Dedica tiempo a cultivar relaciones positivas.</string>
+
+    <string name="tit_11">Planifica tu día</string>
+    <string name="desc_11">Organiza tus tareas diarias para reducir el estrés.</string>
+
+    <string name="tit_12">Respira profundamente</string>
+    <string name="desc_12">Practica respiraciones profundas para relajarte.</string>
+
+    <string name="tit_13">Ríe más</string>
+    <string name="desc_13">Encuentra tiempo para reír y disfrutar con amigos.</string>
+
+    <string name="tit_14">Escucha música</string>
+    <string name="desc_14">Escucha tu música favorita para elevar tu ánimo.</string>
+
+    <string name="tit_15">Lee libros</string>
+    <string name="desc_15">Lee algo que te interese cada día para relajarte.</string>
+
+    <string name="tit_16">Aprende algo nuevo</string>
+    <string name="desc_16">Dedica tiempo a aprender una habilidad nueva.</string>
+
+    <string name="tit_17">Cuida tu postura</string>
+    <string name="desc_17">Mantén una postura adecuada al sentarte y caminar.</string>
+
+    <string name="tit_18">Come lentamente</string>
+    <string name="desc_18">Mastica bien los alimentos y come despacio.</string>
+
+    <string name="tit_19">Organiza tu espacio</string>
+    <string name="desc_19">Mantén tu espacio de trabajo ordenado.</string>
+
+    <string name="tit_20">Sé amable contigo</string>
+    <string name="desc_20">Practica el autocuidado y sé gentil contigo mismo.</string>
+
+    <string name="tit_21">Participa en hobbies</string>
+    <string name="desc_21">Dedica tiempo a tus pasatiempos favoritos.</string>
+
+    <string name="tit_22">Comunica tus sentimientos</string>
+    <string name="desc_22">Expresa tus emociones de manera saludable.</string>
+
+    <string name="tit_23">Evita el multitasking</string>
+    <string name="desc_23">Enfócate en una tarea a la vez para ser más eficiente.</string>
+
+    <string name="tit_24">Toma sol moderadamente</string>
+    <string name="desc_24">Exponte al sol de manera segura para obtener vitamina D.</string>
+
+    <string name="tit_25">Escucha tu cuerpo</string>
+    <string name="desc_25">Presta atención a las señales de tu cuerpo y descansa cuando lo necesites.</string>
+
+    <string name="tit_26">Practica el perdón</string>
+    <string name="desc_26">Aprende a perdonar para liberar cargas emocionales.</string>
+
+    <string name="tit_27">Mantén un diario</string>
+    <string name="desc_27">Escribe tus pensamientos y experiencias diariamente.</string>
+
+    <string name="tit_28">Ayuda a otros</string>
+    <string name="desc_28">Dedica tiempo a ayudar a los demás y siente satisfacción.</string>
+
+    <string name="tit_29">Limita el azúcar</string>
+    <string name="desc_29">Reduce el consumo de azúcar para mantener niveles de energía estables.</string>
+
+    <string name="tit_30">Sé positivo</string>
+    <string name="desc_30">Practica el pensamiento positivo para mejorar tu bienestar mental.</string>
+</resources>
